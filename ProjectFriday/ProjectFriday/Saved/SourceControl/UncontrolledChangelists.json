@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Git/ClancyProject/ClancyProject/ProjectFriday/ProjectFriday/Content/Widgets/WB_ButtonSwitchCamera.uasset",
+				"D:/Git/ClancyProject/ClancyProject/ProjectFriday/ProjectFriday/Content/Blueprints/BP_CameraActor.uasset",
+				"D:/Git/ClancyProject/ClancyProject/ProjectFriday/ProjectFriday/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/Git/ClancyProject/ClancyProject/ProjectFriday/ProjectFriday/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/1E/BXK1GK7Q8VNNTHF7XBJK21.uasset",
+				"D:/Git/ClancyProject/ClancyProject/ProjectFriday/ProjectFriday/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/7O/DNT65FAVHTP59A7UJW1VSM.uasset",
+				"D:/Git/ClancyProject/ClancyProject/ProjectFriday/ProjectFriday/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CU/XQPN4HJKQWNFIL9CA6XA5Z.uasset"
+			]
+		}
+	]
+}
